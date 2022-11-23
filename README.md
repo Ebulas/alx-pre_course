@@ -1,1 +1,1 @@
-my firset readme
+i'm a software Eng
